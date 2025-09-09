@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Free Video Download Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Free Video Download Site</h1>
+        <p>Download freely licensed videos (Creative Commons & Public Domain)</p>
+    </header>
+    <main>
+        <section>
+            <h2>Available Videos</h2>
+            <ul>
+                <li>
+                    <strong>Big Buck Bunny</strong> <br>
+                    <a href="https://peach.blender.org/download/" target="_blank">Download from Blender Foundation</a>
+                    <span>(Creative Commons)</span>
+                </li>
+                <li>
+                    <strong>Tears of Steel</strong> <br>
+                    <a href="https://mango.blender.org/download/" target="_blank">Download from Blender Foundation</a>
+                    <span>(Creative Commons)</span>
+                </li>
+                <li>
+                    <strong>Archive.org: NASA Videos</strong> <br>
+                    <a href="https://archive.org/details/nasa-video-collection" target="_blank">Browse & Download</a>
+                    <span>(Public Domain)</span>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>About Licensing</h2>
+            <p>
+                All videos listed here are freely available under Creative Commons or public domain licenses. 
+                Please check each link for specific license details before sharing or reusing content.
+            </p>
+        </section>
+    </main>
+</body>
+</html>
